@@ -1,7 +1,8 @@
 
 # Climatiseur adiabatique 🌊
 
-Un projet réalisé dans le but de créer un climatiseur basé sur un principe simple : lorsque l'eau s'évapore, elle absorbe la chaleur environnante, et refroidit donc l'air
+> [!NOTE]
+> Un projet réalisé dans le but de créer un climatiseur basé sur un principe simple : lorsque l'eau s'évapore, elle absorbe la chaleur environnante, et refroidit donc l'air
 
 
 ## Mon objectif
