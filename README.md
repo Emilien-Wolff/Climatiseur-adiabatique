@@ -4,6 +4,7 @@
 > [!NOTE]
 > Un projet réalisé dans le but de créer un climatiseur basé sur un principe simple : lorsque l'eau s'évapore, elle absorbe la chaleur environnante, et refroidit donc l'air
 
+![alt text](https://github.com/Emilien-Wolff/Peugeot-E-103/blob/main/Documentation/Photos/IMG_3447.jpg?raw=true)
 
 ## Mon objectif
 
