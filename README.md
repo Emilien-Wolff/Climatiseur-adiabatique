@@ -8,7 +8,7 @@
 
 ## Mon objectif
 
-> Quantifier l'efficacité d'un tel système et proposer un système peu cher, compact et suffisament efficace pour permettre en été caniculaire de dormir correctement, sans travail mécanique apporté (compresseur).
+> Quantifier l'efficacité d'un tel système et proposer un système peu cher, compact et suffisament efficace pour permettre en été caniculaire de dormir correctement, sans travail mécanique $W_\text{méca}$ apporté (compresseur).
 
 
 ## Mon cahier des charges
